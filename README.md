@@ -18,21 +18,9 @@ Se usa `load_breast_cancer()` de Scikit-learn: 569 observaciones y 30 variables 
 - Métricas: Accuracy, Precision, Recall, F1-score y matriz de confusión.
 - Selección: priorizar Recall para maligno; F1-score y Accuracy como criterios secundarios.
 
-## Resultados de referencia
-
-| Modelo        |   Accuracy |   Precision |   Recall |   F1-score |
-|:--------------|-----------:|------------:|---------:|-----------:|
-| Decision Tree |     0.9123 |      0.9444 |   0.8095 |     0.8718 |
-| Random Forest |     0.9737 |      1.0000 |   0.9286 |     0.9630 |
-| SVM           |     0.9737 |      1.0000 |   0.9286 |     0.9630 |
-| K-NN          |     0.9561 |      0.9744 |   0.9048 |     0.9383 |
-| Naive Bayes   |     0.9386 |      1.0000 |   0.8333 |     0.9091 |
-
 ## Archivos
-- `Semana8_Algoritmos_Clasificacion.ipynb`: notebook comentado.
-- `Informe_Semana8_Clasificacion.pdf`: informe breve.
-- `resultados_comparacion.csv`: métricas y conteos de las matrices.
-- `figuras/`: comparación de métricas y matrices por modelo.
+- `Algoritmos_Clasificacion.ipynb`: notebook comentado.
+- `Informe Algoritmos de clasificación.doc`: informe breve.
 - `requirements.txt`: dependencias.
 
 ## Ejecución
